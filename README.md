@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer
 -----------------------
 
-programming around 6years🧓 Currently in HS👶 passion for advancing in all of my skills and problem solving.
+programming around 6years🧓 Currently in HS👶 passion for advancing in all of my skills and learning more🧠.
 
 *   🌍  I'm based in Israel
 *   🧠  I'm currently learning C# and FPGA&VHDL
