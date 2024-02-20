@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Liran
 =============================================================================================================================
 
-Fullstack Web Developer
+Fullstack Developer & Student
 -----------------------
 
-programming around 6years🧓 Currently in HS👶 passion for advancing in all of my skills and problem solving.
+Programming around 6years🧓 Currently in HS👶 passion for advancing in all of my skills and problem solving.
 
 * 🌍  I'm based in Israel
 * 🧠  I'm learning C# and FPGA&VHDL
