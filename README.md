@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer & Student
 -----------------------
 
-Programming around 6years🧓 Currently in HS👶 passion for advancing in all of my skills and problem solving.
+Programming around 7years🧓 I have passion for advancing in all of my skills and problem solving!
 
 * 🌍  I'm based in Israel
-* 🧠  I'm learning C# and FPGA&VHDL
-* 🤝  I'm open to collaborating on some interesting projects 🤫
+* 🧠  I'm learning currently mainly algorithms and C/CPP
+* 🤝  I'm open to collaborating on some interesting projects if you're up 🤫
 
 ### Skills
 
