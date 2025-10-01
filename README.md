@@ -1,4 +1,6 @@
-$$\huge{\color{blue}stay \space cool}$$
+<div align="center">
+<span>way too hot in here</span>
+</div>
 
 $~~~~~~~~~~~$
 
